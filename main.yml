@@ -1,0 +1,6 @@
+---
+- name: Excersise
+  hosts: localhost
+
+  roles:
+    - print
